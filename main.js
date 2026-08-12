@@ -5,7 +5,7 @@
 // Default configuration data
 const DEFAULT_DATA = {
   profile: {
-    name: "Leticia Cielokurniawan",
+    name: "Leticia Cielo Kurniawan",
     school: "SMAN 1 Antigravity (Kelas 11 IPA)",
     bioHeadline: "Pelajar yang berfokus pada teknologi informatika dan kebahasaan. Gemar membuat hal interaktif.",
     fullBio: "Saya menyukai bidang desain UI/UX, pemrograman web dasar, dan linguistik. Proyek portfolio ini dibuat sebagai wadah pengarsipan tugas-tugas sekolah agar dapat ditinjau oleh guru dan rekan belajar secara praktis. Bermimpi untuk menjadi Software Engineer atau pakar bahasa digital di masa depan.",
@@ -14,7 +14,7 @@ const DEFAULT_DATA = {
     avatar: "avatar1",
     pin: "1234",
     socials: {
-      instagram: "https://instagram.com/leticia_c",
+      instagram: "https://instagram.com/_ccsiell",
       github: "https://github.com/leticiacielokurniawan",
       linkedin: "https://linkedin.com",
       youtube: "https://youtube.com",
